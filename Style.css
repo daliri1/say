@@ -1,0 +1,53 @@
+body{
+    font-family: 'Bangers', cursive;
+    margin: auto;
+    text-align: center;
+    background-image: url(bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    font-family: 'Bangers', cursive;
+    font-size: 100px;
+    margin: 10px auto;
+    color: whitesmoke;
+    
+    
+    
+}
+.A{
+    margin-right: 170px;
+    display: inline-block;
+    text-align: center;
+}
+.B{
+    margin-right: 50px;
+    display: inline-block;
+    text-align: center;
+}
+img{
+    width: 250px;
+    height: 250px;
+}
+.btn{
+    color: white;
+    padding: 10px 30px;
+    width:50px;
+    background-color: brown;
+    text-decoration: none;
+    border-radius: 10px;
+}
+.buttons{
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.btn1{
+    
+    color: white;
+    padding: 10px 30px;
+    background-color: brown;
+    text-decoration: none;
+    border-radius: 10px;
+}
